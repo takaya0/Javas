@@ -1,2 +1,2 @@
 # Javas
-javaの練習用repo
+javaの練習用repository
